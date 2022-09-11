@@ -30,12 +30,12 @@ Loss plot for the training
 
 ### Conclusion
 
-At this stage, the model is already really good as we have up to 80% accuracy and as we test it (see Results) we can clearly distinguish the shape of water around objets. Obviously the prediction are not perfect but one limit of the model is that we take a picture of the everyday life (not a landscape) the reflection on water makes it difficult to predict it.
+At this stage, the model is already really good as we have up to 80% accuracy and as we test it (see Results) we can clearly distinguish the shape of water around objets. Obviously the predictions are not perfect but one limit of the model is that we take a picture of the everyday life (not a landscape) the reflection on water makes it difficult to predict it.
 
 ### Results
 
 Input  
-![test1](https://user-images.githubusercontent.com/91634314/189516061-fca0bfdb-cb4e-45b7-99d9-a69395471257.png)
+![test1bis](https://user-images.githubusercontent.com/91634314/189518741-26a79fe6-f831-4c43-bb7a-e029117e9598.png)
 
 Ground Truth  
 ![output1](https://user-images.githubusercontent.com/91634314/189516071-6117de08-aecd-400e-89e8-72569fb59711.png)
